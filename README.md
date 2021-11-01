@@ -1,6 +1,9 @@
 # VINS-Fusion
 ## An optimization-based multi-sensor state estimator
 
+# Computer setup
+Ubuntu 20.04 (Noetic) + OpenCV 4.2.0 + eigen 3.3.7 + ceres-solver 1.14.0
+
 <img src="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/blob/master/support_files/image/vins_logo.png" width = 55% height = 55% div align=left />
 <img src="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion/blob/master/support_files/image/kitti.png" width = 34% height = 34% div align=center />
 
