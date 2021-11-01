@@ -273,8 +273,7 @@ main( int argc, char** argv )
                          cv::FONT_HERSHEY_COMPLEX,
                          0.5,
                          cv::Scalar( 255, 255, 255 ),
-                         1,
-                         CV_AA );
+                         1, cv::LINE_AA);
             cv::imshow( "Image", cbImages.at( i ) );
             cv::waitKey( 0 );
         }
